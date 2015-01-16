@@ -6,4 +6,6 @@ categories: jekyll update
 ---
 {{ site.time | date_to_string }}
 
-[{"name"=>"2013", "items"=>[1.2.3.4]}, {"name"=>"2014", "items"=>[1.2.3.4]}]
+ {{ site.members | group_by:"graduation_year" }}
+
+[{"name"=>"2013", "items"=>[...]}, {"name"=>"2014", "items"=>[...]}] 
