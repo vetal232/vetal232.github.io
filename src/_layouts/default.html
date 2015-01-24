@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="{% if page.language %}{{ page.language }}{% else %}en{% endif %}">
+<head>
+  <title>
+    {% if page.category == 'reviewing' %}
+      Review:
+    {% endif %}
+    {% if page.title %}
+      {{ page.title }} |
+    {% endif %}
+    {{ site.author }}
+  </title>
+
+  <meta charset="utf8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="author" content="{{ site.author | escape}}">
+
+  {% if page.excerpt %}
+  <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines | escape }}">
+  {% else %}
+  <meta name="description" content="{{ site.description | escape }}">
+  {% endif %}
+  {% if page.tags %}
+  <meta name="keywords" content="{{ page.tags | join: ', ' | escape }}">
+  {% endif %}
+
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,400italic|Source+Code+Pro|Volkhov:400italic" rel="stylesheet">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.name }} RSS Feed" href="/alsohavingafeed.xml">
+</head>
+
+<body>
+  <header class="masthead" role="banner">
+    <h1 class="site-title">
+      <a href="/" rel="home">stephanmax<span class="mark">.</span>is</a><span class="subtle">{{ page.category }}</span>
+    </h1>
+    <nav class="site-nav">
+      <ul class="site-menu">
+        <li><a href="/" rel="home">Home</a></li>
+        <li><a href="/archiving">Archive</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  {% if page.tags %}
+    {% include post.html %}
+  {% else %}
+    {{ content }}
+  {% endif %}
+
+  <footer id="contact" class="site-footer" role="contentinfo">
+    <ul class="elsewhere">
+      <li><a href="mailto:hi@stephanmax.is"><span class="icon-quill"></span>hi@stephanmax.is</a></li>
+      <li><a href="https://twitter.com/smaxtastic"><span class="icon-twitter"></span>@smaxtastic</a></li>
+      <li><a href="https://github.com/smaxtastic"><span class="icon-github"></span>/smaxtastic</a></li>
+      <li><a href="https://www.linkedin.com/in/smaxtastic"><span class="icon-linkedin"></span>/smaxtastic</a></li>
+      <li><a href="https://vimeo.com/smaxtastic"><span class="icon-vimeo"></span>/smaxtastic</a></li>
+      <li><a href="http://stephanmax.is/alsohavingafeed"><span class="icon-feed"></span>/alsohavingafeed</a></li>
+    </ul>
+    <p class="copyright">Copyright {{ site.established }}-{{ site.time | date: '%Y' }} by Stephan Max. All rights reserved.</p>
+  </footer>
+
+  <script src="/assets/js/main.js"></script>
+</body>
+</html>

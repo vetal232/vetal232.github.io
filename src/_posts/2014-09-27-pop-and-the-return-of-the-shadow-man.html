@@ -1,0 +1,61 @@
+---
+title: PoP &amp; The Return of the Shadow Man
+tags: [games, retro, childhood]
+---
+
+<p>Yesterday I finished <i><a href="http://jordanmechner.com/ebook/#pop">The Making of Prince of Persia &mdash; Journals 1985-1993</a></i> by <i>Jordan Mechner</i>. It was an awesome read and I whipped through it in no time. I don&rsquo;t know what I expected, but the book was much more to me than just a developer's journal. Maybe it&rsquo;s because Jordan&rsquo;s 1980s self was as old as I am today. The book made me think about career choices, free time, family, and friendship.</p>
+<p>Fancy words, I know. Also, this post is not about that.</p>
+
+<figure>
+  <img src="/images/pop-shadow_man-apple_ii.jpg" width="369">
+  <figcaption>The Prince and his evil doppelg&auml;nger, the <b>Shadow Man</b> (Apple II version)</figcaption>
+</figure>
+
+<p>It is rather about a neat little, yet ingenious technical thing that I am trying to reproduce. A retro experiment, if you will. I caught myself smiling when I stumbled upon this line in the book:</p>
+
+<figure class="quote" cite="http://jordanmechner.com/old-journals/1988/06/june-8-1988">
+  <blockquote class="quote-text">I was explaining to her why there are no enemies in Prince of Persia. The animations for the player&rsquo;s character are so elaborate, there&rsquo;s not enough memory left to add another character.</blockquote>
+  <footer class="quote-source">&mdash;Jordan Lechner</footer>
+</figure>
+
+<p>Sure, these worries are part of the old game development days that are long gone. But it makes me appreciate games from back then even more. I mean, where is the challenge in game programming today?<sup class="ref"><a href="#fn1" id="r1">1</a></sup> Sometimes I wish for the romantic of computer technology in the eighties, to be frank.</p>
+
+<p>Back to my little experiment. Jordan found a solution for his dilemma:</p>
+
+<figure class="quote" cite="http://jordanmechner.com/old-journals/1988/06/june-8-1988">
+  <blockquote class="quote-text">I started to explain: &lsquo;This is the Apple II&hellip;&rsquo; and then it hit me: What if I exclusive-OR each frame with itself, bit-shifted one pixel over? I visualized a ghostly, shimmering outline-figure, black, with white face and arms, running and leaping, pursuing you. I described it to Tomi. &lsquo;<em>Shadow Man</em>!&rsquo; she exclaimed.</blockquote>
+  <footer class="quote-source">&mdash;Jordan Lechner</footer>
+</figure>
+
+<p>It is ridiculous how his idea is simple and brilliant at the same time. Use XOR and everything is going to be fine, no big deal. I wanted to try it out anyways. Say &ldquo;Hi&rdquo; to the Prince<sup class="ref"><a href="#fn2" id="r2">2</a></sup> and his 1-pixel-shifted friend!</p>
+
+<figure>
+  <img src="/images/pop-prince.png" width="128">
+  <img src="/images/pop-prince-shifted.png" width="128">
+</figure>
+
+<p>I used <i>imagemagick</i> and <i>Seashore</i> to do exactly what Jordan suggested: I took the two images and XORed them together. The result looks magically familiar:</p>
+
+<figure>
+  <img src="/images/pop-shadow_man.png" width="128">
+</figure>
+
+<p>You may say the outcome has been obvious all along. However, I felt great as I witnessed the Shadow Man coming to life on my computer&mdash;25 years after his first appearance!</p>
+
+<figure>
+  <img src="/images/pop-shadow_man-test.jpg" width="80">
+  <figcaption>A fighting Shadow Man (DOS version)</figcaption>
+</figure>
+
+<p>Shadow Man might be a bit misleading, since the Prince&rsquo;s antagonist is really his own reflection in the mirror. Spoiler: Before you approach <i>Jaffar</i>, the final opponent who captured the princess, you reunite with your evil twin to regain your full strength<sup class="ref"><a href="#fn3" id="r3">3</a></sup>.</p>
+
+<p>It doesn&rsquo;t matter&hellip; From now on I will always refer to him as <em>Shadow Man</em>. Simply because I can picture <i>Tomi Pierce</i><sup class="ref"><a href="#fn4" id="r4">4</a></sup>, who coined this name, with eyes wide open, a huge smile on her face and all filled up with excitement.</p>
+
+<p>Just like me, when my dad introduced me to Prince of Persia.</p>
+
+<ol class="footnotes">
+  <li id="fn1" class="fn">I <strong>do</strong> find the rise of computer games fascinating and stunning. But I also think that they are stagnating. Fortunately, I have the feeling that HTML5 games might have set the stage for some true innovations and new pioneers. <a href="#r1">&uarr;</a></li>
+  <li id="fn2" class="fn">The characters in this article are from the DOS version of the game. <a href="http://www.hardcoregaming101.net/princeofpersia/princeofpersia.htm">Here</a> you can find a nice screenshot collection of the different versions. <a href="#r2">&uarr;</a></li>
+  <li id="fn3" class="fn">This is a perfect analogy for the underlying math: Iff a&nbsp;xor&nbsp;b&nbsp;=&nbsp;c, then c&nbsp;xor&nbsp;b&nbsp;=&nbsp;a (the last equation is also true if you switch a and b). Beautiful! <a href="#r3">&uarr;</a></li>
+  <li id="fn4" class="fn">Shit&hellip; When I googled for her last name, I found out that <a href="http://jordanmechner.com/blog/2010/02/tp/">she died</a> of ALS 4 years ago. Based on Jordan&rsquo;s obituary, it seems Tomi was a wonderful person. May she never be forgotten! <a href="#r4">&uarr;</a></li>
+</ol>

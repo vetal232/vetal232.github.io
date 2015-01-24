@@ -1,0 +1,30 @@
+---
+layout: default
+category: archiving
+---
+
+<main>
+  <ul class="postlist archive">
+    {% for p in site.posts %}
+      {% capture year %}{{ p.date | date: '%Y' }}{% endcapture %}
+      {% capture nyear %}{{ p.next.date | date: '%Y' }}{% endcapture %}
+      {% if year != nyear %}
+        <li class="postlist-section">{{ p.date | date: "%Y" }}</li>
+      {% endif %}
+    	<li class="postlist-entry">
+        {% if p.category == 'external' %}
+        <a href="{{ p.link }}" class="postlist-link">
+          {{ p.title }} <span>&mdash; for </span> <b>{{ p.for }}</b>
+        {% else %}
+        <a href="{{ p.url | remove: '.html' }}" class="postlist-link">
+          {% if p.category == 'reviewing' %}Review:{% endif %}
+            {{ p.title }}
+          {% endif %}
+          <time datetime="{{ p.date | date: '%Y-%m-%d' }}">
+            {{ p.date | date: '%B %-d' }}
+          </time>
+        </a>
+    	</li>
+    {% endfor %}
+  </ul>
+</main>

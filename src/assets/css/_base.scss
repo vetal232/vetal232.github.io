@@ -1,0 +1,64 @@
+html {
+  border-top: 4px solid $color-highlight;
+  box-sizing: border-box;
+  font-size: 100%;
+  text-rendering: optimizeLegibility;
+}
+*, *::before, *::after {
+	box-sizing: inherit;
+  font-size: inherit;
+}
+body {
+  background-color: $color-bg;
+  color: $color-main;
+  font-family: $font-major;
+  font-weight: normal;
+  margin: 0;
+  padding: 0;
+}
+p, h1, h2, h3, h4, h5, h6, blockquote, pre {
+  font: inherit;
+  line-height: inherit;
+  margin: 0;
+}
+a {
+  color: $color-attention;
+	text-decoration: none;
+}
+ins {
+  text-decoration: none;
+}
+figure {
+	margin: 0;
+  position: relative;
+}
+img,
+video {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+iframe {
+	border: none;
+  display: block;
+}
+ol, ul {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+code {
+  font: inherit;
+}
+b, strong {
+  font-weight: 600;
+}
+table {
+  border-collapse: collapse;
+}
+.post {
+  overflow: hidden;
+}
+.post-header {
+  position: relative;
+}

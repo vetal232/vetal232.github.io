@@ -1,88 +1,93 @@
 'use strict';
+
 module.exports = function(grunt) {
 
+  grunt.loadNpmTasks('grunt-responsive-images');
+  grunt.loadNpmTasks('grunt-responsive-images-extender');
+  grunt.loadNpmTasks('grunt-shell');
+
   grunt.initConfig({
-    jshint: {
-      options: {
-        jshintrc: '.jshintrc'
+    shell: {
+      jekyllBuild: {
+        command: 'jekyll build'
       },
-      all: [
-        'Gruntfile.js',
-        'assets/js/*.js',
-        '!assets/js/plugins/*.js',
-        '!assets/js/scripts.min.js'
-      ]
+      jekyllWatch: {
+        command: 'jekyll build -w'
+      },
+      deploy: {
+        command: 'rsync -vrc --exclude=.DS_Store build/ smax:webapps/main/'
+      }
     },
-    uglify: {
-      dist: {
-        files: {
-          'assets/js/scripts.min.js': [
-            'assets/js/plugins/*.js',
-            'assets/js/_*.js'
-          ]
+    responsive_images: {
+      dev: {
+        files: [{
+          expand: true,
+          src: ['images/**/*.{jpg,gif,png}'],
+          cwd: 'src/',
+          dest: 'build/'
+        }],
+        options: {
+          newFilesOnly: false,
+          quality: 80,
+          sizes: [{
+            name: 'small',
+            width: 320
+          },{
+            name: 'medium',
+            width: 640
+          },{
+            name: 'large',
+            width: 800
+          }]
         }
       }
     },
-    imagemin: {
-      dist: {
+    responsive_images_extender: {
+      dev: {
+        files: [{
+          expand: true,
+          src: ['**/*.{html,htm,php}'],
+          cwd: 'build/',
+          dest: 'build/'
+        }],
         options: {
-          optimizationLevel: 7,
-          progressive: true
-        },
-        files: [{
-          expand: true,
-          cwd: 'images/',
-          src: '{,*/}*.{png,jpg,jpeg}',
-          dest: 'images/'
-        }]
+          srcset: [{
+            suffix: '-small',
+            value: '320w'
+          },{
+            suffix: '-medium',
+            value: '640w'
+          },{
+            suffix: '-large',
+            value: '800w'
+          }],
+          sizes: [{
+            selector: '.fig-hero img',
+            sizeList: [{
+              cond: 'min-width: 62.625em',
+              size: '49.3125em'
+            },{
+              cond: 'min-width: 42.75em',
+              size: '38.625em'
+            },{
+              cond: 'default',
+              size: '100vw'
+            }]
+          },{
+            selector: '.fig-image img',
+            sizeList: [{
+              cond: 'min-width: 42.75em',
+              size: '38.625em'
+            },{
+              cond: 'default',
+              size: '100vw'
+            }]
+          }]
+        }
       }
-    },
-    svgmin: {
-      dist: {
-        files: [{
-          expand: true,
-          cwd: 'images/',
-          src: '{,*/}*.svg',
-          dest: 'images/'
-        }]
-      }
-    },
-    watch: {
-      js: {
-        files: [
-          '<%= jshint.all %>'
-        ],
-        tasks: ['jshint','uglify']
-      }
-    },
-    clean: {
-      dist: [
-        'assets/js/scripts.min.js'
-      ]
     }
   });
 
-  // Load tasks
-  grunt.loadNpmTasks('grunt-contrib-clean');
-  grunt.loadNpmTasks('grunt-contrib-jshint');
-  grunt.loadNpmTasks('grunt-contrib-uglify');
-  grunt.loadNpmTasks('grunt-contrib-watch');
-  grunt.loadNpmTasks('grunt-contrib-imagemin');
-  grunt.loadNpmTasks('grunt-svgmin');
-
-  // Register tasks
-  grunt.registerTask('default', [
-    'clean',
-    'uglify',
-    'imagemin',
-    'svgmin'
-  ]);
-  grunt.registerTask('dev', [
-    'watch'
-  ]);
-  grunt.registerTask('images', [
-    'imagemin',
-    'svgmin'
-  ]);
-
+  grunt.registerTask('watch', ['shell:jekyllWatch']);
+  grunt.registerTask('deploy', ['shell:jekyllBuild', 'responsive_images', 'responsive_images_extender', 'shell:deploy']);
 };

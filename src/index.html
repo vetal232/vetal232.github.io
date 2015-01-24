@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<main>
+  <div class="greetings">
+    <img class="stephan" src="/images/stephanmax.jpg" alt="A photo of Stephan Max" width="40%">
+    <h2>Hi, I&rsquo;m Stephan.</h2>
+    <p>50% passion, 30% optimism, 15% insomniac, 7% details.</p>
+  </div>
+
+  <ul class="postlist">
+  {% for p in site.posts limit:10 %}
+  	<li class="postlist-entry">
+      {% if p.category == 'external' %}
+      <a href="{{ p.link }}" class="postlist-link">
+        {{ p.title }} <span>&mdash; for </span> <b>{{ p.for }}</b>
+      {% else %}
+      <a href="{{ p.url | remove: '.html' }}" class="postlist-link">
+        {% if p.category == 'reviewing' %}Review:{% endif %}
+          {{ p.title }}
+        {% endif %}
+        <time datetime="{{ p.date | date: '%Y-%m-%d' }}">
+          {{ p.date | date: '%B %-d, %Y' }}
+        </time>
+      </a>
+  	</li>
+  {% endfor %}
+  </ul>
+
+  <a href="/archiving" class="link-to-archive">Archive</a>
+</main>
