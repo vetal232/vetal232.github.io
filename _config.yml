@@ -10,7 +10,14 @@ destination: build
 excerpt_separator: "\n\n"
 permalink: /:categories/:title.html
 highlighter: pygments
+markdown: kramdown
 
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
 sass:
     sass_dir: assets/css
     style: :compressed
