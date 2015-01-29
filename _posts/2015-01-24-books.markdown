@@ -20,8 +20,8 @@ published: true
 #Бизнес
 
 1. [Бизнес в стиле фанк](http://www.litres.ru/yonas-ridderstrale/kell-nordstrem/biznes-v-stile-fank-kapital-plyashet-pod-dudku-talanta/)
-2. [Роман об управлении проектами](http://www.litres.ru/tom-demarko/deadline-roman-ob-upravlenii-proektami/5631320/)
-3. Борода1
+2. [Роман об управлении проектами - Том ДеМарко](http://www.litres.ru/tom-demarko/deadline-roman-ob-upravlenii-proektami/5631320/)
+3. [Русская модель управления - Проханов](http://www.litres.ru/aleksandr-prohorov/russkaya-model-upravleniya/)
 4. Тра-тата
 
 
