@@ -9,7 +9,7 @@ published: true
 
 <section id="table-of-contents" class="toc">
   <header>
-    <h3>Overview</h3>
+    <h3>Содержание</h3>
   </header>
 <div markdown="1">
 *  Auto generated table of contents
@@ -22,7 +22,7 @@ published: true
 1. [Бизнес в стиле фанк](http://www.litres.ru/yonas-ridderstrale/kell-nordstrem/biznes-v-stile-fank-kapital-plyashet-pod-dudku-talanta/)
 2. [Роман об управлении проектами - Том ДеМарко](http://www.litres.ru/tom-demarko/deadline-roman-ob-upravlenii-proektami/5631320/)
 3. [Русская модель управления - Проханов](http://www.litres.ru/aleksandr-prohorov/russkaya-model-upravleniya/)
-4. Тра-тата
+4. [Моя жизнь, мои достижения - Форд](http://www.litres.ru/genri-ford/moya-zhizn-moi-dostizheniya-4/)
 
 
 #Художественная
