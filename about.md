@@ -4,4 +4,5 @@ title: About
 permalink: /about/
 ---
 
-эбаут
+ [Moscow Power Engineering Institute (Smolensk branch)](http://mpei.ru/lang/en/Pages/default.aspx)
+
