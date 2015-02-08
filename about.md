@@ -4,6 +4,14 @@ title: About
 permalink: /about/
 ---
 
+<div>
+<a href="http://ru.linkedin.com/in/tuevv">
+      
+          <img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_profile_bluetxt_80x15.png" width="80" height="15" border="0" alt="View Vitaly Tuev's profile on LinkedIn">
+        
+    </a>
+</div>
+
  [Moscow Power Engineering Institute (Smolensk branch)](http://mpei.ru/lang/en/Pages/default.aspx)
 
 speciality - Computer Science in Economics (2003-2008)
@@ -28,10 +36,4 @@ speciality - Computer Science in Economics (2003-2008)
 - XML, UML, Web-services, Continious integration
 - Project management systems, bug trackers (Redmine, Jira, Mantis, Trello)
 
-<div>
-<a href="http://ru.linkedin.com/in/tuevv">
-      
-          <img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_profile_bluetxt_80x15.png" width="80" height="15" border="0" alt="View Vitaly Tuev's profile on LinkedIn">
-        
-    </a>
-</div>
+
