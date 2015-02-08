@@ -27,13 +27,15 @@ speciality - Computer Science in Economics (2003-2008)
 
 - Software Project Management
 - Software Development
-- ERP
-- EDI 
+- ERP (SAP, 1C Enterprise)
+- EDI (European standarts and platforms)
 - ECM Alfresco
 - Java EE
-- BPMN
-- Databases
+- BPMN (Apache Activity)
+- Databases (MySQL, PostgreSQL, SQlite)
+- Android development
 - XML, UML, Web-services, Continious integration
 - Project management systems, bug trackers (Redmine, Jira, Mantis, Trello)
+- Agile methodology
 
 
