@@ -55,7 +55,7 @@ speciality - Computer Science in Economics (2003-2008)
 #### Ford EDI project
 Ford EDIFACT implementation of DELJIT, DELCAT, Self billing INVOICE
 #### Accenture EDI demo-stand
-demo for SAP EDI Connector to exchange e-invoicing for Russia 
+Demo for SAP EDI Connector to exchange e-invoicing for Russia 
 #### Heinz - customers portal based on EDI
 #### Osram EDI project
 #### EDI Connectors with many ERP systems and client customization
