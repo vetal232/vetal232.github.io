@@ -64,7 +64,7 @@ speciality - Computer Science in Economics (2003-2008)
 - **Accenture** EDI demo-stand
 *Demo for SAP EDI Connector to exchange e-invoicing for Russia*
 
-- **Heinz** - customers portal based on **EDI**
+- **Heinz** - customers portal based on EDI
 
 - **Osram** EDI project
 
