@@ -4,17 +4,22 @@ title: About
 permalink: /about/
 ---
 
+# Vitaly Tuev
+
+Project manager in Business integration and Software development areas
+
+
 <div>
 <a href="http://ru.linkedin.com/in/tuevv">
       
           <img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_profile_bluetxt_80x15.png" width="80" height="15" border="0" alt="View Vitaly Tuev's profile on LinkedIn">
         
     </a>
+    
+    https://www.facebook.com/vitaly.tuev
 </div>
 
- [Moscow Power Engineering Institute (Smolensk branch)](http://mpei.ru/lang/en/Pages/default.aspx)
 
-speciality - Computer Science in Economics (2003-2008)
 
 # Expirience
 
@@ -22,6 +27,11 @@ speciality - Computer Science in Economics (2003-2008)
 - Head of IT Department - Aquavita (2009 - 2013)
 - Founder and CEO - SoftMaster (2010-2013)
 - Business Development Manager - Edisoft [rus](http://ediweb.ru/) | [eng](http://edisoft.ee/eng/) (2011 - now)
+
+# Education
+
+ [Moscow Power Engineering Institute (Smolensk branch)](http://mpei.ru/lang/en/Pages/default.aspx)
+speciality - Computer Science in Economics (2003-2008)
 
 # Skills
 
