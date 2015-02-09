@@ -1,6 +1,7 @@
 ---
 layout: page
-permalink: /about/
+title: About
+permalink: /me/
 ---
 # Vitaly Tuev
 Project manager in Business integration and Software development areas
