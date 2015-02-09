@@ -54,21 +54,22 @@ speciality - Computer Science in Economics (2003-2008)
 
 # Integration Projects
 
-#### 1. Wrigley's VMI for distributors project 
+### Wrigley's VMI for distributors project 
 
-#### 2. Kraft-foods (Mondelez) EDI project with 3PL operators
+### Kraft-foods (Mondelez) EDI project with 3PL operators
 
-#### 3. Ford EDI project
-Ford EDIFACT implementation of DELJIT, DELCAT, Self billing INVOICE
+### Ford EDI project
+*Ford EDIFACT implementation of DELJIT, DELCAT, Self billing INVOICE*
 
-#### 4. Accenture EDI demo-stand
-Demo for SAP EDI Connector to exchange e-invoicing for Russia 
+### Accenture EDI demo-stand
+*Demo for SAP EDI Connector to exchange e-invoicing for Russia*
 
-#### 5. Heinz - customers portal based on EDI
+### Heinz - customers portal based on EDI
 
-#### Osram EDI project
+### Osram EDI project
 
-#### EDI Connectors with many ERP systems and client customization
+### EDI Connectors with many ERP systems and client customization
+
 Working by with: sFTP, AS2, REST API, SOAP, JMS
 More than 10 ERP: SAP, Microsoft Dynamics (Axapta/Navision), 1C Enterprise, etc
 Connecting to Databases throught ODBC driver
