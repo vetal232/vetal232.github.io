@@ -1,6 +1,5 @@
 ---
 layout: page
-title: About me
 permalink: /about/
 ---
 # Vitaly Tuev
