@@ -54,7 +54,8 @@ speciality - Computer Science in Economics (2003-2008)
 
 # Integration Projects
 
-- <b>Wrigley's </b> VMI for distributors **project** 
+- <b>Wrigley's </b> 
+- VMI for distributors **project** 
 
 - Kraft-foods (Mondelez) EDI project with 3PL operators
 
