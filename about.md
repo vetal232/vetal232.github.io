@@ -1,11 +1,8 @@
 ---
 layout: page
-title: About
+title: Vitaly Tuev
 permalink: /about/
 ---
-
-# Vitaly Tuev
-
 Project manager in Business integration and Software development areas
 
 
