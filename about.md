@@ -3,13 +3,14 @@ layout: page
 title: About
 permalink: /me/
 ---
+<!--
 # Vitaly Tuev
 
 <div>
 <img src="/images/me.jpg" alt="A photo of me" width="30%">
 </div>
 
-
+<br>
 Project manager in Business integration and software development areas
 
 
@@ -51,7 +52,7 @@ speciality - Computer Science in Economics (2003-2008)
 - XML, UML, Web-services, Continious integration
 - Project management systems, bug trackers (Redmine, Jira, Mantis, Trello)
 - Agile methodology
-
+-->
 # Integration Projects
 
 #### Wrigley's VMI for distributors project 
