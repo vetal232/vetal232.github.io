@@ -12,11 +12,11 @@ Project manager in Business integration and Software development areas
 <div>
 <a href="http://ru.linkedin.com/in/tuevv">
       
-          <img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_profile_bluetxt_80x15.png" width="80" height="15" border="0" alt="View Vitaly Tuev's profile on LinkedIn">
+          <img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_profile_bluetxt_80x15.png" height="15" border="0" alt="View Vitaly Tuev's profile on LinkedIn">
         
     </a>
     
-    <a href = "https://www.facebook.com/vitaly.tuev" > facebook </a>
+    <a href = "https://www.facebook.com/vitaly.tuev" > <img src="http://upload.wikimedia.org/wikipedia/commons/3/32/Facebooklogo.png" height="20">  </a>
 </div>
 
 
