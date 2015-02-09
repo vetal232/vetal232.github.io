@@ -4,6 +4,11 @@ title: About
 permalink: /me/
 ---
 # Vitaly Tuev
+
+<div class="greetings">
+<img class="me" src="/images/me.jpg" alt="A photo of me" width="30%">
+</div>
+
 Project manager in Business integration and Software development areas
 
 
