@@ -52,8 +52,9 @@ speciality - Computer Science in Economics (2003-2008)
 - XML, UML, Web-services, Continious integration
 - Project management systems, bug trackers (Redmine, Jira, Mantis, Trello)
 - Agile methodology
--->
+
 # Integration Projects
+-->
 
 #### Wrigley's VMI for distributors project 
 #### Kraft-foods (Mondelez) EDI project with 3PL operators
