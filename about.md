@@ -30,7 +30,7 @@ Project manager in Business integration and software development areas
 - 1C Enterprise (ERP) Developer - Aquavita (2007 - 2008)
 - Head of IT Department - Aquavita (2009 - 2013)
 - Founder and CEO - SoftMaster (2010-2013)
-- Business Development Manager - Edisoft [rus](http://ediweb.ru/) - [eng](http://edisoft.ee/eng/) (2011 - now)
+- Business Development Manager - Edisoft ([rus](http://ediweb.ru/)/[eng](http://edisoft.ee/eng/)) (2011 - now)
 
 # Education
 
