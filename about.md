@@ -52,10 +52,11 @@ speciality - Computer Science in Economics (2003-2008)
 - Project management systems, bug trackers (Redmine, Jira, Mantis, Trello)
 - Agile methodology
 
-# Integration Projects
-#### Wrigley's VMI for distributors project
-#### Kraft-foods (Mondelez) EDI project with 3PL operators
-#### Ford EDI project
+#Integration Projects
+
+####Wrigley's VMI for distributors project
+####Kraft-foods (Mondelez) EDI project with 3PL operators
+####Ford EDI project
 Ford EDIFACT implementation of DELJIT, DELCAT, Self billing INVOICE
 #### Accenture EDI demo-stand
 Demo for SAP EDI Connector to exchange e-invoicing for Russia 
