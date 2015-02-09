@@ -54,7 +54,7 @@ speciality - Computer Science in Economics (2003-2008)
 
 # Integration Projects
 
-#### Wrigley's VMI for distributors project 
+#### Wrigley's VMI for distributors project
 #### Kraft-foods (Mondelez) EDI project with 3PL operators
 #### Ford EDI project
 Ford EDIFACT implementation of DELJIT, DELCAT, Self billing INVOICE
