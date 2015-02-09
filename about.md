@@ -16,7 +16,7 @@ Project manager in Business integration and Software development areas
         
     </a>
     
-    https://www.facebook.com/vitaly.tuev
+    <a href = "https://www.facebook.com/vitaly.tuev" > facebook </a>
 </div>
 
 
