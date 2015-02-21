@@ -103,4 +103,3 @@ d.addEventListener("DOMContentLoaded", f, false);
 </script>
 <noscript><div><img src="//mc.yandex.ru/watch/28161756" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
-
