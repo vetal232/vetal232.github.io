@@ -5,8 +5,8 @@ permalink: /me/
 ---
 # Vitaly Tuev
 
-<div class="greetings">
-<img class="me" src="/images/me.jpg" alt="A photo of me" width="30%">
+<div>
+<img src="/images/me.jpg" alt="A photo of me" width="30%">
 </div>
 
 <br>
@@ -53,20 +53,6 @@ speciality - Computer Science in Economics (2003-2008)
 
 # Integration Projects
 
-<<<<<<< HEAD
-#### Wrigley's VMI for distributors project
-#### Kraft-foods (Mondelez) EDI project with 3PL operators
-#### Ford EDI project
-Ford EDIFACT implementation of DELJIT, DELCAT, Self billing INVOICE
-#### Accenture EDI demo-stand
-Demo for SAP EDI Connector to exchange e-invoicing for Russia 
-#### Heinz - customers portal based on EDI
-#### Osram EDI project
-#### EDI Connectors with many ERP systems and client customization
-Working by with: sFTP, AS2, REST API, SOAP, JMS
-More than 10 ERP: SAP, Microsoft Dynamics (Axapta/Navision), 1C Enterprise, etc
-Connecting to Databases throught ODBC driver
-=======
 - **Wrigley's** VMI for distributors project 
 
 - **Kraft-foods** (Mondelez) EDI project with 3PL operators
@@ -86,7 +72,6 @@ Connecting to Databases throught ODBC driver
   - Working by with: sFTP, AS2, REST API, SOAP, JMS
   - More than 10 ERP: SAP, Microsoft Dynamics (Axapta/Navision), 1C Enterprise, etc
   - Connecting to Databases throught ODBC driver
->>>>>>> origin/master
 
 
 
@@ -118,3 +103,4 @@ d.addEventListener("DOMContentLoaded", f, false);
 </script>
 <noscript><div><img src="//mc.yandex.ru/watch/28161756" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
+
