@@ -1,40 +1,32 @@
 ---
 layout: default
+post_class: post-template page-template
 ---
-<div class="post">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-  </header>
+<nav class="main-nav clearfix">
+    <a class="back-button icon-arrow-left" href="{{ site.baseurl }}">Home</a>
+    <a class="subscribe-button icon-feed" href="{{ site.baseurl }}rss.xml">Subscribe</a>
+</nav>
 
-  <article class="post-content">
-    {{ content }}
-  </article>
 
-</div>
+<main class="content" role="main">
+    <article class="post">
+        <!-- <header class="post-header">
+            <a id="blog-logo" href="{{site.baseurl}}">
+                {% if site.logo %}
+                    <img src="{{site.logo}}" alt="{{ site.name }}" />
+                {% else %}
+                    <span class="blog-title">{{ site.name }}</span>
+                {%endif%} 
+            </a>
+        </header> -->
 
-<!-- Yandex.Metrika counter -->
-<script type="text/javascript">
-(function (d, w, c) {
-    (w[c] = w[c] || []).push(function() {
-        try {
-            w.yaCounter28161756 = new Ya.Metrika({id:28161756,
-                    trackLinks:true,
-                    accurateTrackBounce:true});
-        } catch(e) { }
-    });
+        <h1 class="post-title">{{ page.title }}</h1>
 
-    var n = d.getElementsByTagName("script")[0],
-        s = d.createElement("script"),
-        f = function () { n.parentNode.insertBefore(s, n); };
-    s.type = "text/javascript";
-    s.async = true;
-    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+        <section class="post-content">
+            {{content}}
+        </section>
 
-    if (w.opera == "[object Opera]") {
-        d.addEventListener("DOMContentLoaded", f, false);
-    } else { f(); }
-})(document, window, "yandex_metrika_callbacks");
-</script>
-<noscript><div><img src="//mc.yandex.ru/watch/28161756" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
+    </article>
+
+</main>
