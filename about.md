@@ -12,7 +12,6 @@ permalink: /me/
 <br>
 Project manager in Business integration and software development areas
 
-
 <div>
 <a href="http://ru.linkedin.com/in/tuevv">
       
@@ -23,14 +22,14 @@ Project manager in Business integration and software development areas
     <a href = "https://www.facebook.com/vitaly.tuev" > <img src="http://upload.wikimedia.org/wikipedia/commons/3/32/Facebooklogo.png" height="20">  </a>
 </div>
 
-
+<br>
 
 # Expirience
 
 - 1C Enterprise (ERP) Developer - Aquavita (2007 - 2008)
 - Head of IT Department - Aquavita (2009 - 2013)
 - Founder and CEO - SoftMaster (2010-2013)
-- Business Development Manager - Edisoft [rus](http://ediweb.ru/) | [eng](http://edisoft.ee/eng/) (2011 - now)
+- Business Development Manager - Edisoft ([rus](http://ediweb.ru/)/[eng](http://edisoft.ee/eng/)) (2011 - now)
 
 # Education
 
@@ -54,6 +53,7 @@ speciality - Computer Science in Economics (2003-2008)
 
 # Integration Projects
 
+<<<<<<< HEAD
 #### Wrigley's VMI for distributors project
 #### Kraft-foods (Mondelez) EDI project with 3PL operators
 #### Ford EDI project
@@ -66,6 +66,27 @@ Demo for SAP EDI Connector to exchange e-invoicing for Russia
 Working by with: sFTP, AS2, REST API, SOAP, JMS
 More than 10 ERP: SAP, Microsoft Dynamics (Axapta/Navision), 1C Enterprise, etc
 Connecting to Databases throught ODBC driver
+=======
+- **Wrigley's** VMI for distributors project 
+
+- **Kraft-foods** (Mondelez) EDI project with 3PL operators
+
+- **Ford** EDI project
+*Custom EDIFACT implementation of DELJIT, DELCAT, Self billing INVOICE*
+
+- **Accenture** EDI demo-stand
+*Demo for SAP EDI Connector to exchange e-invoicing for Russia*
+
+- **Heinz** - customers portal based on EDI
+
+- **Osram** EDI project
+
+- EDI Connectors with many ERP systems and client customization
+
+  - Working by with: sFTP, AS2, REST API, SOAP, JMS
+  - More than 10 ERP: SAP, Microsoft Dynamics (Axapta/Navision), 1C Enterprise, etc
+  - Connecting to Databases throught ODBC driver
+>>>>>>> origin/master
 
 
 
