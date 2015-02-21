@@ -2,7 +2,7 @@ name: Your New Jekyll Site
 description: Blogging about stuffs
 meta_description: "Your New Jekyll Site, Blogging about stuffs"
 
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 logo: false
 paginate: 15
@@ -10,6 +10,13 @@ baseurl: /
 domain_name: 'http://yourblog-domain.com'
 google_analytics: 'UA-XXXXXXXX-X'
 
+github_username:  vetal232
+
 # Details for the RSS feed generator
 url:            'blog url'
 author:         'Your Name'
+
+kramdown:
+  auto_ids: true
+  toc_levels: 1..6
+# input: GFM
