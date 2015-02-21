@@ -6,8 +6,8 @@ markdown: kramdown
 highlighter: pygments
 logo: false
 paginate: 15
-baseurl: /
-domain_name: 'http://yourblog-domain.com'
+baseurl: http://vetal232.github.io/
+domain_name: 'http://vetal232.github.io/'
 google_analytics: 'UA-XXXXXXXX-X'
 
 github_username:  vetal232
