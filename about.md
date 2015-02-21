@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-cover: '/images/cover.jpg'
+permalink: /me/
 ---
 # Vitaly Tuev
 
