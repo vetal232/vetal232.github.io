@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /me/
+permalink: /about/
 ---
 # Vitaly Tuev
 
