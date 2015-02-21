@@ -2,7 +2,7 @@
 layout: default
 title: Home
 cover: true
-about: '/me/'
+about: 'me/'
 cover: '/images/cover.jpg'
 ---
 
@@ -13,14 +13,14 @@ cover: '/images/cover.jpg'
                     <img src="{{ page.logo }}" alt="Blog Logo" />
                 </a>
             {% endif %}
-        <a class="subscribe-button icon-feed" href='{{ site.baseurl }}{{ page.about }}'>About</a>
+        <a class="subscribe-button icon-feed" href='{{ site.baseurl }}{{ page.about }}'>About me</a>
     </nav>
     <div class="vertical">
         <div class="main-header-content inner">
             <h1 class="page-title">{{ site.name }}</h1>
             <h2 class="page-description">
                 {% if site.description %} {{ site.description }}. {% endif %}
-                {% if page.about %} <a href='{{ site.baseurl }}{{ page.about }}'> About me </a> {% endif %}
+                <!-- {% if page.about %} <a href='{{ site.baseurl }}{{ page.about }}'> About me </a> {% endif %} -->
             </h2>
         </div>
     </div>
@@ -59,7 +59,7 @@ cover: '/images/cover.jpg'
     </article>
 
     <!-- Capser below -->
-<!--     <article class="{{post_class}}">
+     <article class="{{post_class}}">
     <header class="post-header">
         <h2 class="post-title"><a href="{{url}}">{{{title}}}</a></h2>
     </header>
@@ -72,7 +72,7 @@ cover: '/images/cover.jpg'
         {{tags prefix=" on "}}
         <time class="post-date" datetime="{{date format='YYYY-MM-DD'}}">{{date format="DD MMMM YYYY"}}</time>
     </footer>
-    </article> -->
+    </article>
     <!--  -->
 
     {% endfor %}
