@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+cover: '/images/cover.jpg'
 ---
 # Vitaly Tuev
 
@@ -18,7 +19,7 @@ Project manager in Business integration and software development areas
         
     </a>
     
-    <a href = "https://www.facebook.com/vitaly.tuev" > <img src="http://upload.wikimedia.org/wikipedia/commons/3/32/Facebooklogo.png" height="20" width="60">  </a>
+    <a href = "https://www.facebook.com/vitaly.tuev" > <img src="http://upload.wikimedia.org/wikipedia/commons/3/32/Facebooklogo.png" height="20">  </a>
 </div>
 
 <br>
