@@ -15,7 +15,7 @@ permalink: /me/
 
 Project manager in Business integration and software development areas
 
-<div class="class="post-footer">
+<div class="post-footer">
 <section class="share">
 
 <a class="icon-lin" href="http://ru.linkedin.com/in/tuevv">
