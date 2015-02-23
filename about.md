@@ -2,11 +2,13 @@
 layout: page
 permalink: /me/
 ---
-# Vitaly Tuev
 
 <div>
 <img class="big-thumb" src="/images/me.jpg" alt="A photo of me" width="30%">
 </div>
+
+<br>
+# Vitaly Tuev
 
 <br>
 Project manager in Business integration and software development areas
