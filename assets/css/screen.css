@@ -952,11 +952,11 @@ body:not(.post-template) .post-title {
 }
 
 /* Create some space to the right for the share links */
-.post-footer .author {
+.post-footer .author h4 {
    /* margin-right: 180px;
-   position: absolute;*/
-   left: 50%;
-   
+   position: absolute;
+   left: 50%;*/
+   text-align: center;
 }
 
 .post-footer h4 a {
