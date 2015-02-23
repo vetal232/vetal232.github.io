@@ -20,8 +20,7 @@ Project manager in Business integration and software development areas
 <a class="icon-lin" href="http://ru.linkedin.com/in/tuevv">
       <span class="hidden">Linked in</span>
     </a>
-    
-    <a href = "https://www.facebook.com/vitaly.tuev" > <img src="http://upload.wikimedia.org/wikipedia/commons/3/32/Facebooklogo.png" height="20" width="60">  </a>
+    <a class="icon-fb" href = "https://www.facebook.com/vitaly.tuev" >  <span class="hidden">Facebook </span> </a>
 </div>
 </section>
 <br>
