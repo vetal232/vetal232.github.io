@@ -14,7 +14,7 @@ github_username:  vetal232
 
 # Details for the RSS feed generator
 # url:            'blog url'
-# author:         'Your Name'
+author:         'Vitaly Tuev'
 
 kramdown:
   auto_ids: true
