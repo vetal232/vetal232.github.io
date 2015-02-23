@@ -16,13 +16,14 @@ permalink: /me/
 Project manager in Business integration and software development areas
 
 <div>
+<section class="share">
 <a class="icon-lin" href="http://ru.linkedin.com/in/tuevv">
       <span class="hidden">Linked in</span>
     </a>
     
     <a href = "https://www.facebook.com/vitaly.tuev" > <img src="http://upload.wikimedia.org/wikipedia/commons/3/32/Facebooklogo.png" height="20" width="60">  </a>
 </div>
-
+</section>
 <br>
 
 # Expirience
