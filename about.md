@@ -14,7 +14,7 @@ permalink: /me/
 <br>
 </div>
 
-# Vitaly Tuev
+#   Vitaly Tuev
 
 Project manager in Business integration and software development areas
 
