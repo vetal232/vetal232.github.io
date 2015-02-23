@@ -5,11 +5,12 @@ permalink: /me/
 
 <div>
 <img class="big-thumb" src="/images/me.jpg" alt="A photo of me" width="30%" align="left">
-<p>
+<br>
+<br>
 </div>
 
-<br> <p>
-# Vitaly Tuev
+
+# &nbsp;&nbsp;&nbsp;Vitaly Tuev
 
 Project manager in Business integration and software development areas
 
