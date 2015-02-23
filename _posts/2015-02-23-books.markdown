@@ -3,6 +3,7 @@ layout: post
 title: Книжная полка
 date: 
   "Mon Feb 23 2015 18:52:44 GMT+0300": null
+categories: books
 published: true
 ---
 
