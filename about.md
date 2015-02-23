@@ -15,8 +15,8 @@ permalink: /me/
 
 Project manager in Business integration and software development areas
 
-<div class="post-footer">
-<section class="share">
+<div class="myshare">
+
 
 <a class="icon-lin" href="http://ru.linkedin.com/in/tuevv">
       <span class="hidden">Linked in</span>
@@ -24,7 +24,7 @@ Project manager in Business integration and software development areas
     <a class="icon-fb" href = "https://www.facebook.com/vitaly.tuev" >  
     <span class="hidden">Facebook </span> 
     </a>
-</section>
+
 </div>
 
 <br>
