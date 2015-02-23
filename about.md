@@ -4,17 +4,10 @@ permalink: /me/
 ---
 
 <div>
-<img class="big-thumb" src="/images/me.jpg" alt="A photo of me" width="30%" border="5px">
+<img class="big-thumb" src="/images/me.jpg" alt="A photo of me" width="30%">
 </div>
 
-
-<div>
-<br>
-<br>
-<br>
-</div>
-
-#   Vitaly Tuev
+# Vitaly Tuev
 
 Project manager in Business integration and software development areas
 
