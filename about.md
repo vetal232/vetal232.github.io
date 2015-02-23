@@ -24,7 +24,9 @@ Project manager in Business integration and software development areas
     <a class="icon-fb" href = "https://www.facebook.com/vitaly.tuev" >  
     <span class="hidden">Facebook </span> 
     </a>
-
+<a class="icon-git" href = "https://github.com/vetal232" >  
+    <span class="hidden">Github </span> 
+    </a>
 </div>
 
 <br>
