@@ -953,7 +953,7 @@ body:not(.post-template) .post-title {
 
 /* Create some space to the right for the share links */
 .post-footer .author {
-    margin-right: 180px;
+   /* margin-right: 180px;*/
 }
 
 .post-footer h4 a {
