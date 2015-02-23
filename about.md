@@ -5,7 +5,7 @@ permalink: /me/
 # Vitaly Tuev
 
 <div>
-<img class="author-thumb" src="/images/me.jpg" alt="A photo of me" width="30%">
+<img class="big-thumb" src="/images/me.jpg" alt="A photo of me" width="30%">
 </div>
 
 <br>
