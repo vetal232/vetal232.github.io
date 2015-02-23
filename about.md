@@ -5,8 +5,7 @@ permalink: /me/
 
 <div>
 <img class="big-thumb" src="/images/me.jpg" alt="A photo of me" width="30%" align="left">
-<br>
-<br>
+_   
 </div>
 
 # Vitaly Tuev
