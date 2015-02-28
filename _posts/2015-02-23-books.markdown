@@ -20,16 +20,16 @@ published: true
 #Бизнес
 
 1. [Бизнес в стиле фанк](http://www.litres.ru/yonas-ridderstrale/kell-nordstrem/biznes-v-stile-fank-kapital-plyashet-pod-dudku-talanta/)
-2. [Rework - бизнес без предрассудков](http://www.litres.ru/dzheyson-frayd/devid-hensson/rework-biznes-bez-predrassudkov)
-2. how google works
+2. [Rework - бизнес без предрассудков](http://www.mann-ivanov-ferber.ru/books/luchiernoctar/rework1/)
+3. [Кавасаки - стартап](http://www.mann-ivanov-ferber.ru/books/luchiernoctar/the_art_of_the_start/)
+2. [How Google works](http://www.amazon.com/How-Google-Works-Eric-Schmidt-ebook/dp/B00J379F3O) - [краткое изложение](http://www.smartreading.ru/biblioteka/istorii_uspeha_biografii/how_google_works/)
 3. [Моя жизнь, мои достижения - Форд](http://www.litres.ru/genri-ford/moya-zhizn-moi-dostizheniya-4/)
-4. капитал в 21 веке
+
 
 
 #Management
 
-1. кризисы менеджмента адизес
-2. cavasaki startup
+1. [Стили менеджмента Адизес](http://www.mann-ivanov-ferber.ru/books/sse/mismanagement-crisis/)
 3. [Русская модель управления - Проханов](http://www.litres.ru/aleksandr-prohorov/russkaya-model-upravleniya/)
 4. [Командовать или подчиняться - Литвак](http://www.ozon.ru/context/detail/id/3830563/)
 5. [45 татуировок менеджера - Батырев](http://www.litres.ru/maksim-batyrev/45-tatuirovok-menedzhera-pravila-rossiyskogo-rukovoditelya-2/)
@@ -37,7 +37,7 @@ published: true
 #Project management
 
 1. [Роман об управлении проектами - Том ДеМарко](http://www.litres.ru/tom-demarko/deadline-roman-ob-upravlenii-proektami/5631320/)
-2. [Remote: Office Not Required](http://www.amazon.com/dp/B00CZ7OC46)
+2. [Remote: Office Not Required](http://www.amazon.com/dp/B00CZ7OC46) - [перевод]( http://www.mann-ivanov-ferber.ru/books/paperbook/remote_office_not_required/)
 
 
 
@@ -47,9 +47,9 @@ published: true
 
 #Concepts
 
-1. gor путь в будущее
-2. third wave toffler
-3. мальколм гладуэлл переломный момент
+1. [Будущее - Гор](http://www.smartreading.ru/biblioteka/obyazatelnoe_chtenie/future/) - [оригинал]( http://www.litres.ru/al-gore/future-2/)
+2. [Третья волна - Тоффлер](http://www.smartreading.ru/biblioteka/obyazatelnoe_chtenie/third_wave/)- [wiki](https://ru.wikipedia.org/wiki/Третья_волна_(Тоффлер))
+3. [Переломный момент - гладуэлл](http://www.smartreading.ru/biblioteka/knigi_po_menedzhmentu/the_tipping_point/)
 
 #Психология
 
@@ -59,7 +59,7 @@ published: true
 
 #Личная эффективность
 
-1. 7 навыков высокоэффект людей
+1. 7 навыков высокоэффект людей Кови
 2. daily inbox zero google
 
 #Историческая
@@ -69,5 +69,5 @@ published: true
 #Профессиональная
 
 1. professional alfresco
-2. addison wesley enterprise integration patterns
+2. [Enterprise integration patterns](http://www.williamspublishing.com/Books/5-8459-0579-6.html) - [оригинал](http://www.amazon.co.uk/Enterprise-Application-Architecture-Addison-Wesley-Signature/dp/0321127420)
 
