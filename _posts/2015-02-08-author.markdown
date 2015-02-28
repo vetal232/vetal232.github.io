@@ -3,17 +3,21 @@ layout: post
 title: Полезные ресурсы
 date: 
   "Sat Jan 23 2015 18:52:44 GMT+0300": null
-categories: jekyll update
+categories: links
 published: true
 ---
 
-#Integration (Alfresco)
+#Integration
 
 - [Паттерны интеграции - конспект](http://0agr.ru/blog/2012/08/08/enterprise-integration-patterns/)
-- http://www.giuseppeurso.eu/en/massive-bulk-import-in-alfresco-using-curl/
-- http://blogs.alfresco.com/wp/lcabaceira/
+
+##SAP
 - http://sapvod.edgesuite.net/rusaptechnologyonlineseries/pdfs/05.12%20presenttaion.pdf
 - http://www.sapevents.edgesuite.net/russiasaptechnologyonlineseries/2014/pdfs/sap_terralink_0409.pdf
 - http://sapvod.edgesuite.net/russiasaptechnologyonlineseries/2014/pdfs/open_text.pdf
 - http://sapvod.edgesuite.net/russiasaptechnologyonlineseries/2014/pdfs/terralink_sap_02_06_alexander_beyder_v2.pdf
 
+#Alfresco
+
+- http://www.giuseppeurso.eu/en/massive-bulk-import-in-alfresco-using-curl/
+- http://blogs.alfresco.com/wp/lcabaceira/
