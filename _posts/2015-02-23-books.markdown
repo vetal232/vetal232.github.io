@@ -20,6 +20,7 @@ published: true
 #Бизнес
 
 1. [Бизнес в стиле фанк](http://www.litres.ru/yonas-ridderstrale/kell-nordstrem/biznes-v-stile-fank-kapital-plyashet-pod-dudku-talanta/)
+2. [Rework - бизнес без предрассудков](http://www.litres.ru/dzheyson-frayd/devid-hensson/rework-biznes-bez-predrassudkov)
 2. how google works
 3. [Моя жизнь, мои достижения - Форд](http://www.litres.ru/genri-ford/moya-zhizn-moi-dostizheniya-4/)
 4. капитал в 21 веке
@@ -31,16 +32,18 @@ published: true
 2. cavasaki startup
 3. [Русская модель управления - Проханов](http://www.litres.ru/aleksandr-prohorov/russkaya-model-upravleniya/)
 4. [Командовать или подчиняться - Литвак](http://www.ozon.ru/context/detail/id/3830563/)
+5. [45 татуировок менеджера - Батырев](http://www.litres.ru/maksim-batyrev/45-tatuirovok-menedzhera-pravila-rossiyskogo-rukovoditelya-2/)
 
 #Project management
 
 1. [Роман об управлении проектами - Том ДеМарко](http://www.litres.ru/tom-demarko/deadline-roman-ob-upravlenii-proektami/5631320/)
+2. [Remote: Office Not Required](http://www.amazon.com/dp/B00CZ7OC46)
 
 
 
 #Художественная
 
-1. Oruell 1984
+1. [Джордж Оруэлл - 1984](http://www.litres.ru/dzhordzh-oruell/1984/) - [original (eng)](https://archive.org/details/ost-english-1984-george-orwell-1937-dystopia)
 
 #Concepts
 
