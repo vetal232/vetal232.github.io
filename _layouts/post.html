@@ -66,7 +66,7 @@ about: 'me/'
             <!-- If we want to display author's name and bio -->
             {% if site.author %}
                 <figure class="author-image">
-                    <a class="img" href="{{ site.baseurl }}" style="background-image: url(/assets/images/me.jpg)">
+                    <a class="img" href="{{ site.baseurl }}{{ page.about }}" style="background-image: url(/assets/images/me.jpg)">
                     <span class="hidden">{{site.author}}'s Picture</span></a>
                 </figure>
                 <section class="author">
