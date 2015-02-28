@@ -32,7 +32,7 @@ published: true
 1. [Стили менеджмента Адизес](http://www.mann-ivanov-ferber.ru/books/sse/mismanagement-crisis/)
 3. [Русская модель управления - Проханов](http://www.litres.ru/aleksandr-prohorov/russkaya-model-upravleniya/)
 4. [Командовать или подчиняться - Литвак](http://www.ozon.ru/context/detail/id/3830563/)
-5. [45 татуировок менеджера - Батырев](http://www.litres.ru/maksim-batyrev/45-tatuirovok-menedzhera-pravila-rossiyskogo-rukovoditelya-2/)
+5. [45 татуировок менеджера - Батырев](http://www.mann-ivanov-ferber.ru/books/paperbook/tattoos/)
 
 #Project management
 
@@ -65,6 +65,7 @@ published: true
 #Историческая
 
 1. [Churchill (British Prime Ministers of the 20th Century) ](https://www.goodreads.com/book/show/3014252-churchill)
+2. [Трошев - Моя война. Чеченский дневник окопного генерала](https://ru.wikipedia.org/wiki/Моя_война._Чеченский_дневник_окопного_генерала)
 
 #Профессиональная
 
