@@ -31,7 +31,7 @@ Project manager in Business integration and software development areas
 
 <br>
 
-# Expirience
+# Experience
 
 - Business Development Manager - Edisoft ([rus](http://ediweb.ru/)/[eng](http://edisoft.ee/eng/)) (2011 - now)
 - Head of IT Department - Aquavita (2009 - 2013)
