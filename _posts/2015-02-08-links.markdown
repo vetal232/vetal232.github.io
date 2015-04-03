@@ -21,3 +21,7 @@ published: true
 
 - http://www.giuseppeurso.eu/en/massive-bulk-import-in-alfresco-using-curl/
 - http://blogs.alfresco.com/wp/lcabaceira/
+
+
+#PM
+- http://blog.sibirix.ru/2015/03/03/comp-card/
