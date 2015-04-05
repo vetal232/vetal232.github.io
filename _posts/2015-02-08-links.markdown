@@ -25,3 +25,9 @@ published: true
 
 #PM
 - http://blog.sibirix.ru/2015/03/03/comp-card/
+- 
+
+#1c
+- http://infostart.ru/public/328695/ (Разработка на 1С по промышленным стандартам)
+- http://habrahabr.ru/post/248669/
+
