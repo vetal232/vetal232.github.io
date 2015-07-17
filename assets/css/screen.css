@@ -790,9 +790,9 @@ body:not(.post-template) .post-title {
     border-radius: 100%;
 }
 
-.big-thumb {
+/*.big-thumb {
     border-radius: 100%;
-}
+} */
 
 .post-meta a {
     color: #9EABB3;
