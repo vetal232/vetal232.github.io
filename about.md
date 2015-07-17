@@ -13,11 +13,11 @@ permalink: /me/
 
 # &nbsp;&nbsp;&nbsp;Vitaly Tuev
 
-&nbsp;&nbsp;Project manager in Business integration and software development areas
+&nbsp;Project manager in Business integration and &nbsp;software development areas
 
 <div class="myshare">
 
-&nbsp;&nbsp;
+&nbsp;
 <a class="icon-lin" href="http://ru.linkedin.com/in/tuevv">
       <span class="hidden">Linked in</span>
     </a>
