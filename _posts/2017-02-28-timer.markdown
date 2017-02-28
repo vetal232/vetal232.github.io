@@ -3,11 +3,11 @@ layout: post
 title: Timer
 date: 
   "Sat Feb 28 2017 18:52:44 GMT+0300": null
-categories: links
+categories: timer
 published: true
 ---
 
-#Время до кабздеца
+<h1> Время до кабздеца </h1>
 
 <script src="http://megatimer.ru/s/05d9f222755ccced712df5d1f375c13a.js"></script>
 
