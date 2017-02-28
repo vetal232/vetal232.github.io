@@ -7,7 +7,7 @@ categories: timer
 published: true
 ---
 
-<h2 align="center"> Вжух, и enterprise - разработчик  превратиться в учителя английского! </h2>
+<h2 align="center"> Вжух, и enterprise - разработчик  превратится в учителя английского! </h2>
 <br>
 <script src="http://megatimer.ru/s/c19966285eddf42b0db683e6fd3cd663.js"></script>
 
