@@ -9,6 +9,6 @@ published: true
 
 <h1 align="center"> Время до кабздеца </h1>
 
-<script src="http://megatimer.ru/s/05d9f222755ccced712df5d1f375c13a.js"></script>
+<script src="http://megatimer.ru/s/f0bf95a5a0864b249245d166cbcd8e51.js"></script>
 
 
