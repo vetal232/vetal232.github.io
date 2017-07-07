@@ -34,11 +34,15 @@
     <script type="text/javascript" src="/assets/js/jquery.fitvids.js"></script>
     <script type="text/javascript" src="/assets/js/index.js"></script>
 
-   <script data-skip-moving="true">
-        (function(w,d,u,b){
-                s=d.createElement('script');r=(Date.now()/1000|0);s.async=1;s.src=u+'?'+r;
+   <script id="bx24_form_inline" data-skip-moving="true">
+        (function(w,d,u,b){w['Bitrix24FormObject']=b;w[b] = w[b] || function(){arguments[0].ref=u;
+                (w[b].forms=w[b].forms||[]).push(arguments[0])};
+                if(w[b]['forms']) return;
+                s=d.createElement('script');r=1*new Date();s.async=1;s.src=u+'?'+r;
                 h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
-        })(window,document,'https://cdn.bitrix24.ru/b3396353/crm/site_button/loader_4_7ytraw.js');
+        })(window,document,'https://illustrators.bitrix24.ru/bitrix/js/crm/form_loader.js','b24form');
+
+        b24form({"id":"10","lang":"ru","sec":"1j46xt","type":"inline"});
 </script>
     <!-- Google Analytics Tracking code -->
     <script type="text/javascript">
