@@ -4,7 +4,7 @@ permalink: /certificates/
 ---
 
 
-# 1C:Enterprice certificates
+<h1> 1C:Enterprice certificates </h1>
 
 <div>
 <img class="big-thumb" src="/images/cert1.jpg" width="30%" align="left">
