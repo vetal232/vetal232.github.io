@@ -59,7 +59,14 @@ speciality - Computer Science in Economics (2003-2008)
 - Project management systems, bug trackers (Redmine, Jira, Mantis, Trello)
 - Agile methodology
 
+# 1C:Enterprice certificates
 
+<div>
+<img class="big-thumb" src="/images/cert1.jpg" width="30%" align="left">
+<img class="big-thumb" src="/images/cert2.jpg" width="30%" align="center">
+<img class="big-thumb" src="/images/cert3.jpg" width="30%" align="right">
+<br>
+</div>
 
 
 
