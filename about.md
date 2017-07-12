@@ -18,7 +18,7 @@ permalink: /me/
 <div class="myshare">
 
 &nbsp;
-<a class="icon-lin" href="http://ru.linkedin.com/in/tuevv">
+<a class="icon-lin" href="http://linkedin.com/in/tuevv">
       <span class="hidden">Linked in</span>
     </a>
     <a class="icon-fb" href = "https://www.facebook.com/vitaly.tuev" >  
