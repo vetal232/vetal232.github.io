@@ -13,7 +13,7 @@ permalink: /me/
 
 # &nbsp;&nbsp;&nbsp;Vitaly Tuev
 
-&nbsp;Project manager in Business integration and &nbsp; software &nbsp; development areas
+&nbsp;Project manager in Business integration and&nbsp;software&nbsp;development areas
 
 <div class="myshare">
 
