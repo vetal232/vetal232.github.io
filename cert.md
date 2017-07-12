@@ -6,12 +6,12 @@ permalink: /certificates/
 
 <h1> 1C:Enterprice certificates </h1>
 
-<div>
+
 <img class="big-thumb" src="/images/cert1.jpg" width="30%" align="left">
 <img class="big-thumb" src="/images/cert2.jpg" width="30%" align="center">
 <img class="big-thumb" src="/images/cert3.jpg" width="30%" align="right">
-<br>
-</div>
+
+
 
 
 
