@@ -1,0 +1,27 @@
+---
+layout: post
+title: Отчет IronMan Barcelona 2018
+date: 
+  "Sun Oct 07 2018 18:52:44 GMT+0300": null
+categories: books
+published: true
+---
+
+<section id="table-of-contents" class="toc">
+  <header>
+    <h3>Содержание</h3>
+  </header>
+<div markdown="1">
+*  Auto generated table of contents
+{:toc}
+</div>
+</section><!-- /#table-of-contents -->
+
+#Краткий отчет
+
+Тяжеловатое плавание из за волн, вел чуть хуже плана, бег потерпел, в целом норм. 11:43  
+
+#Полный отчет
+
+![](q8G0Ic5dmx-c500fc6f-2cff-48a2-af6a-443b39d16fc4.gif)
+
